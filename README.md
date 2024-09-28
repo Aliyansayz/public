@@ -2,7 +2,7 @@
 
 https://www.credly.com/users/aliyan-anwar
 
-# public view of my projects worked on
+# Public view of my projects worked on
 
 
 ## YEAR 2024
