@@ -1,3 +1,7 @@
+# My Credentials In Python And ML 
+
+https://www.credly.com/users/aliyan-anwar
+
 # public view of my projects worked on
 
 
@@ -6,6 +10,10 @@
 ### Future Day Price Change Prediction Using CatBoost Regression Model 
 
 ![Future Day Price Change Prediction Using CatBoost Hyperparameter Optimization](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/Fx%20Next%20Day%20Price%20Change%20Model.png)
+
+Impact of Models On Test Data :- 
+
+![Models Impact Visualized]('https://github.com/Aliyansayz/FxMLResearch_v2_harmonic/blob/main/results%20monthly%20gains%20visualized%20.md')
 
 
 ### Multilingual Chatbot Using Cohere Embedding And OpenAI
