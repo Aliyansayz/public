@@ -10,13 +10,13 @@
 
 ### Multilingual Chatbot Using Cohere Embedding And OpenAI
 
-* ![Multilingual Chatbot](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/multilingual%20chatbot%20using%20multilingual%20embedding.png) 
+ ![Multilingual Chatbot](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/multilingual%20chatbot%20using%20multilingual%20embedding.png) 
 
-* Upwork Job Mining
+### Upwork Job Mining
 
 ### Patient Health Report Maker AI App
 
-* ![Patient Health Report Maker AI App](https://github.com/Aliyansayz/public/blob/main/portfolio/projects_preview/Patient%20Health%20Report%20App.jpg)
+![Patient Health Report Maker AI App](https://github.com/Aliyansayz/public/blob/main/portfolio/projects_preview/Patient%20Health%20Report%20App.jpg)
 
 
 
@@ -34,10 +34,10 @@
 
 ## YEAR 2022
 
-* Dynamic Web Scraping using playwright browser
-* Debtors DoubtFul Account Value At Risk
-* Real Estate Web Scraping
-* Rocket Launch Sites And Rocket Launched Into Particular Orbits Analysis
+### Dynamic Web Scraping using playwright browser
+### Debtors DoubtFul Account Value At Risk
+### Real Estate Web Scraping
+### Rocket Launch Sites And Rocket Launched Into Particular Orbits Analysis
 
 ### Food Labeling Using CNN TensorFlow 
 ![Food Labeling Using Multi Layer Precptron - using Convoloutional Neural Network](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/tensorflow%20image%20classification%20model%20on%20food%20images.jpg)
