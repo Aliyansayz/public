@@ -3,11 +3,19 @@
 
 ## YEAR 2024
 
+### Future Day Price Change Prediction Using CatBoost Regression Model 
+
 * ![Future Day Price Change Prediction Using CatBoost Hyperparameter Optimization](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/Fx%20Next%20Day%20Price%20Change%20Model.png)
+
+
+### Multilingual Chatbot Using Cohere Embedding And OpenAI
 
 * ![Multilingual Chatbot](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/multilingual%20chatbot%20using%20multilingual%20embedding.png) 
 
 * Upwork Job Mining
+
+### Patient Health Report Maker AI App
+
 * ![Patient Health Report Maker AI App](https://github.com/Aliyansayz/public/blob/main/portfolio/projects_preview/Patient%20Health%20Report%20App.jpg)
 
 
