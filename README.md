@@ -9,6 +9,12 @@ https://www.credly.com/users/aliyan-anwar
 
 ### Future Day Price Change Prediction Using CatBoost Regression Model 
 
+#### Skills: 
+* Hyperparameters Optimization 
+* Visualization of Time Events
+* Building Custom pipeline 
+* Real time Currency Api 
+
 ![Future Day Price Change Prediction Using CatBoost Hyperparameter Optimization](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/Fx%20Next%20Day%20Price%20Change%20Model.png)
 
 Impact of Models On Test Data :- 
@@ -18,11 +24,23 @@ Impact of Models On Test Data :-
 
 ### Multilingual Chatbot Using Cohere Embedding And OpenAI
 
+#### Skills:
+* LLM Integration 
+* python endpoints postman testing 
+* vector databases 
+
+
  ![Multilingual Chatbot](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/multilingual%20chatbot%20using%20multilingual%20embedding.png) 
 
-### Upwork Job Mining
+### Upwork Job Mining 
+
 
 ### Patient Health Report Maker AI App
+
+#### Skills: 
+* LLM Query Routing 
+* Structured Prompting 
+* Function Calling 
 
 ![Patient Health Report Maker AI App](https://github.com/Aliyansayz/public/blob/main/portfolio/projects_preview/Patient%20Health%20Report%20App.jpg)
 
@@ -31,6 +49,14 @@ Impact of Models On Test Data :-
 ## YEAR 2023
 
 * MarketFrame GUI App To Give Forex, Indices, Crypto Signals 
+
+#### Skills: 
+* OOP object oriented programming 
+* data analysis 
+* visualization 
+
+
+
 * Resume Screening And Retrieving Top Matches
 * Multiple Assets Tabular Data Fetching From Yfinance and Adding Technical Indicators
 
