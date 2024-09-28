@@ -5,7 +5,7 @@
 
 ### Future Day Price Change Prediction Using CatBoost Regression Model 
 
-* ![Future Day Price Change Prediction Using CatBoost Hyperparameter Optimization](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/Fx%20Next%20Day%20Price%20Change%20Model.png)
+![Future Day Price Change Prediction Using CatBoost Hyperparameter Optimization](https://raw.githubusercontent.com/Aliyansayz/public/refs/heads/main/portfolio/projects_preview/Fx%20Next%20Day%20Price%20Change%20Model.png)
 
 
 ### Multilingual Chatbot Using Cohere Embedding And OpenAI
