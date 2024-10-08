@@ -19,7 +19,7 @@ https://www.credly.com/users/aliyan-anwar
 
 Impact of Models On Test Data :- 
 
-![Models Impact Visualized]('https://github.com/Aliyansayz/FxMLResearch_v2_harmonic/blob/main/results%20monthly%20gains%20visualized%20.md')
+![Models Impact Visualized](https://github.com/Aliyansayz/FxMLResearch_v2_harmonic/blob/main/results%20monthly%20gains%20visualized%20.md)
 
 
 ### Multilingual Chatbot Using Cohere Embedding And OpenAI
